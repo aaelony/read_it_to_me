@@ -7,12 +7,7 @@ e.g. The example text outputs [output_20250309_182255.mp3](output_20250309_18225
 
 ## Setup
 
-1. Clone the repository:
-```bash
-git clone https://github.com/USERNAME/REPO.git
-cd REPO
-```
-
+1. Clone the repository
 2. Configure AWS credentials:
 - Set up ~/.aws/credentials or
 - Set environment variables:
